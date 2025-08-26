@@ -1,0 +1,3 @@
+Salaries are calculated monthly. 
+Annual salary = monthly salary × 12. 
+Deductions include income tax, provident fund, and health insurance.
