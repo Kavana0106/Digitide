@@ -3,7 +3,7 @@ import time
 
 # ---- Page Config ----
 st.set_page_config(page_title="Simple Chat App", page_icon="🤖", layout="centered")
-st.title("🤖 Simple Chat App (No API Key)")
+st.title("🤖 Simple Chat App")
 
 # ---- Session State for Messages ----
 if "messages" not in st.session_state:
